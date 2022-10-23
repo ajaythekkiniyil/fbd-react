@@ -1,4 +1,4 @@
 // strapi cms url's
-export const strapiUrl = 'https://effortless-alfajores-a65d0b.netlify.app';
-export const allDoctorsUrl = 'https://effortless-alfajores-a65d0b.netlify.app/api/doctors?fields=name,slug,id';
-export const singleDoctorUrl = 'https://effortless-alfajores-a65d0b.netlify.app/api/doctors?filters';
+export const strapiUrl = 'https://walrus-app-dt37e.ondigitalocean.app';
+export const allDoctorsUrl = 'https://walrus-app-dt37e.ondigitalocean.app/api/doctors?fields=name,slug,id';
+export const singleDoctorUrl = 'https://walrus-app-dt37e.ondigitalocean.app/api/doctors?filters';
