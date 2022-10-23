@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71400ddb.css",
+    "main.js": "/static/js/main.71185826.js",
+    "static/media/telephone.svg": "/static/media/telephone.893f672db5f47d933078a23ba466b3c1.svg",
+    "index.html": "/index.html",
+    "static/media/envelope.svg": "/static/media/envelope.b33d92d38d76b7740a23de119c47504e.svg",
+    "main.71400ddb.css.map": "/static/css/main.71400ddb.css.map",
+    "main.71185826.js.map": "/static/js/main.71185826.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71400ddb.css",
+    "static/js/main.71185826.js"
+  ]
+}
